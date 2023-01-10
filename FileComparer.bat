@@ -1,0 +1,1 @@
+start cmd /k "D:\C#\ArgsReaderService\ArgsReaderService\bin\Debug\net6.0\ArgsReaderService.exe --processType FileComparer"

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArgsReaderService", "ArgsReaderService\ArgsReaderService.csproj", "{9A1F62DD-0CBB-448F-9AE1-623B289FC65F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BatchFiles", "BatchFiles", "{1705EE51-6F80-4192-9D17-6336082BC4D0}"
+	ProjectSection(SolutionItems) = preProject
+		FileComparer.bat = FileComparer.bat
+		RunBatchFiles.bat = RunBatchFiles.bat
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A1F62DD-0CBB-448F-9AE1-623B289FC65F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A1F62DD-0CBB-448F-9AE1-623B289FC65F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A1F62DD-0CBB-448F-9AE1-623B289FC65F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A1F62DD-0CBB-448F-9AE1-623B289FC65F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8891E88-1CD3-4F55-8BCB-7EB72B94CDC5}
+	EndGlobalSection
+EndGlobal

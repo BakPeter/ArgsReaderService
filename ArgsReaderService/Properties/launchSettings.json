@@ -1,0 +1,12 @@
+﻿{
+  "profiles": {
+    "ArgsReaderService": {
+      "commandName": "Project",
+      //"commandLineArgs": "--name pet --age 40",
+      "dotnetRunMessages": true,
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
